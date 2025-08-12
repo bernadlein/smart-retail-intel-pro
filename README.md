@@ -15,8 +15,6 @@ Forecasting • Promo/Price Uplift • FastAPI • Streamlit • MLOps (CI/Monit
 - **Hugging Face Space**: → `(https://huggingface.co/spaces/bernadlein/bernadusboli-smart-retail-intel)`
 - **Repo GitHub**: [https://github.com/bernadlein/smart-retail-intel](https://github.com/bernadlein/smart-retail-intel)
 
-> Jika butuh live URL, saya juga menyiapkan bundle untuk HF Spaces (lihat folder `smart-retail-intel-hf-space`).
-
 ---
 
 ## ✨ Fitur Utama
