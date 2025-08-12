@@ -12,7 +12,7 @@ Forecasting • Promo/Price Uplift • FastAPI • Streamlit • MLOps (CI/Monit
 
 ## 🔗 Demo
 
-- **Hugging Face Space**: → `(https://huggingface.co/spaces/bernadlein/bernadusboli-smart-retail-intel)`
+- **Hugging Face Space**: → (https://huggingface.co/spaces/bernadlein/bernadusboli-smart-retail-intel)
 - **Repo GitHub**: [https://github.com/bernadlein/smart-retail-intel](https://github.com/bernadlein/smart-retail-intel)
 
 ---
